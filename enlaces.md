@@ -17,3 +17,5 @@ Esto mostrará un enlace con el texto "Texto del enlace" que apunta a https://ww
 
 - [Texto del enlace]: Es el texto que aparecerá como el enlace clicable.
 - (https://www.ejemplo.com): Es la URL a la que el texto del enlace apuntará.
+
+> Última Revisión: Viernes, 05 de Junio de 2026
