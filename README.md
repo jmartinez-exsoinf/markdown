@@ -1,16 +1,27 @@
-# MarkDown
+# Markdown
+
+**Markdown** es un lenguaje de marcado ligero que permite crear documentación de forma sencilla y legible. En esta sección encontrarás tutoriales sobre las funcionalidades más utilizadas para dar formato y estructura a tus documentos.
 
 ## [✍️ Texto en Negritas y Cursivas](texto-en-negritas.md)
-Markdown te permite aplicar formato al texto para resaltar información importante o enfatizar palabras clave. 
 
-## [Uso de Bloques de Código](bloque-de-codigo.md)
-Cuando estás documentando código en Markdown, es muy útil mostrarlo con formato especial para que sea más legible. Esto se logra usando bloques de código.
+Aprende a aplicar formato al texto utilizando **negritas** y _cursivas_ para resaltar información importante o enfatizar palabras clave.
+
+## [💻 Uso de Bloques de Código](bloque-de-codigo.md)
+
+Descubre cómo utilizar bloques de código para mostrar fragmentos de código fuente de forma clara y legible dentro de tu documentación.
 
 ## [✨ Comentarios Invisibles](comentarios.md)
-Aunque Markdown no tiene una sintaxis oficial para comentarios, puedes usar HTML para insertar notas que **no se mostrarán en la vista renderizada**, pero sí en el código fuente.
+
+Aprende a agregar comentarios que no serán visibles en la versión renderizada del documento, pero que permanecerán disponibles en el código fuente para referencia futura.
 
 ## [📊 Cómo Crear Tablas en Markdown](tutorial_tablas_markdown.md)
-Las tablas en Markdown permiten presentar información organizada y fácil de leer, ideal para mostrar datos estructurados en guías, reportes o documentación técnica.
+
+Conoce cómo crear tablas para organizar y presentar información de manera estructurada dentro de tus documentos.
 
 ## [✅ Cómo Usar Listas de Tareas en Markdown](listas-de-tareas.md)
-Las listas de tareas (checkboxes) en Markdown son ideales para gestionar pendientes, documentar procesos o crear checklists en proyectos.
+
+Aprende a utilizar listas de tareas (_checkboxes_) para gestionar pendientes, documentar procesos y crear listas de verificación.
+
+## [📘 Cómo Agregar Enlaces en Markdown](enlaces.md)
+
+Descubre cómo crear enlaces a páginas web, documentos o secciones utilizando la sintaxis estándar de Markdown.
